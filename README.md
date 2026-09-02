@@ -28,8 +28,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mahirfaisal777/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/mhr_3d" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" width="50" alt="Instagram" /></a>
-  <a href="https://www.behance.net/mahirfarian" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" height="40" width="50" alt="Behance" style="background:#fff;border-radius:8px;padding:4px" /></a>
-  <a href="https://www.facebook.com/mahir.faisal.39" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" width="50" alt="Facebook" /></a>
+  <a href="https://www.behance.net/mahirfarian" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" height="40" width="50" alt="Behance" style="filter:invert(1)" /></a>
+  <a href="https://www.facebook.com/mahir.faisal.39" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" width="50" alt="Facebook" style="filter:invert(1)" /></a>
 </div>
 
 <br/>
