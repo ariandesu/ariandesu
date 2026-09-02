@@ -47,9 +47,10 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman,vercel)](https://github.com/ariandesu)
 
 ### Design & Creative:
-[![Design](https://skillicons.dev/icons?i=blender,figma,ps,ai)](https://github.com/ariandesu)
-<a href="https://github.com/ariandesu"><img src="https://img.shields.io/badge/Autodesk%20Maya-069697?style=for-the-badge&logo=autodesk&logoColor=white" height="40" alt="Autodesk Maya" /></a>
-<a href="https://github.com/ariandesu"><img src="https://img.shields.io/badge/KeyShot-00B2E3?style=for-the-badge&logo=keyshot&logoColor=white" height="40" alt="KeyShot" /></a>
+[![Design](https://skillicons.dev/icons?i=blender,figma,ps,ai,ae)](https://github.com/ariandesu)
+<a href="https://github.com/ariandesu"><img src="https://raw.githubusercontent.com/ariandesu/ariandesu/main/icons/canva.svg" height="40" width="40" alt="Canva" /></a>
+<a href="https://github.com/ariandesu"><img src="https://raw.githubusercontent.com/ariandesu/ariandesu/main/icons/maya.svg" height="40" width="40" alt="Autodesk Maya" /></a>
+<a href="https://github.com/ariandesu"><img src="https://raw.githubusercontent.com/ariandesu/ariandesu/main/icons/keyshot.svg" height="40" width="40" alt="KeyShot" /></a>
 
 <br/>
 
