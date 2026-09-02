@@ -1,51 +1,87 @@
-<!-- ============================================================
-  BANNER SLOT — add your banner image here later.
-  Recommended size: 1280 x 384 px (GitHub cover ratio).
-  Upload banner.png to this repo, then replace this comment with:
-  <img src="https://github.com/ariandesu/ariandesu/raw/main/banner.png" width="100%" alt="MHR3D banner">
-============================================================ -->
+<!--- BANNER — replace this comment with your banner when ready:
+<img src="https://github.com/ariandesu/ariandesu/raw/main/banner.png" alt="MHR3D banner" width="100%">
+--->
 
-# 👋 Hi, I'm Mahir Faisal — ariandesu
+<!--- TITLE --->
+<div align="center">
+  <h1>Hi 👋, I'm Mahir Faisal</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+ML+Enthusiast;Autonomous+Agent+Builder;Product+Creator+%40+MHR3D;3D+Designer+%26+Creative+Developer" alt="Typing SVG" /></a>
+  <br/>
+  <sub><b>aka ariandesu</b> · github.com/ariandesu</sub>
+</div>
 
-### 🚀 AI Researcher · Autonomous Agent Builder · Product Creator · 3D Designer
+<br/>
 
-I build intelligent systems, self-running AI products, and beautiful things.
+<!--- ABOUT --->
+- 👋 I'm **[@ariandesu](https://github.com/ariandesu)** — a CSE student and builder.
+- 🤖 I run **Sanctuary** — a self-hosted autonomous AI agent, live 24/7 on my home server.
+- 💰 Creator of **ShareFlow** — rewarded ads → 100% OFF coupons ([shareflow.mhr3d.online](https://shareflow.mhr3d.online)).
+- 🧪 ML research: prompt-injection detection, spam classification, NLP.
+- 🐍 Heavy ML training on **Kaggle** with GPU/TPU pipelines.
+- 🎨 3D & creative design on the side — the **MHR3D** side of me.
 
----
+<br/>
 
-## 🧠 About Me
+<!--- SOCIALS --->
+## 🌐 FOLLOW ME ON SOCIALS
 
-- 🤖 I run **Sanctuary** — a self-hosted autonomous AI agent, live 24/7 on my home server
-- 💰 Creator of **ShareFlow** — rewarded ads → 100% OFF coupons (shareflow.mhr3d.online)
-- 🧪 ML research: prompt-injection detection, spam classification
-- 🐍 Heavy ML training & research pipelines on Kaggle (GPU/TPU)
-- 🛠️ Python · FastAPI · React · Docker · Hermes Agent
-- 🎨 3D & creative design on the side — the MHR3D side of me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahirfaisal777/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/mhr_3d" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" width="50" alt="Instagram" /></a>
+  <a href="https://www.behance.net/mahirfarian" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" height="40" width="50" alt="Behance" style="background:#fff;border-radius:8px;padding:4px" /></a>
+  <a href="https://www.facebook.com/mahir.faisal.39" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" width="50" alt="Facebook" /></a>
+</div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!--- TECH STACK --->
+## 🛠️ TECHNOLOGY STACK
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ariandesu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariandesu&layout=compact&theme=radical)
+### Languages & ML:
+[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css)](https://github.com/ariandesu)
 
----
+### Frameworks & Libraries:
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,fastapi,tailwind,nextjs)](https://github.com/ariandesu)
 
-## 🔥 Featured Project
+### Tools & Platforms:
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman,vercel)](https://github.com/ariandesu)
+
+### Design & Creative:
+[![Design](https://skillicons.dev/icons?i=blender,figma,ps,ai)](https://github.com/ariandesu)
+
+<br/>
+
+<!--- STATISTICS --->
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### Contribution Snake:
+![Snake Grid](https://github.com/ariandesu/ariandesu/blob/output/snake.svg)
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ariandesu&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandesu&theme=radical&hide_border=true&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Streak & Trophies:
+| <a><img align="center" src="https://streak-stats.demolab.com/?user=ariandesu&theme=radical&hide_border=true" /></a> | <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=ariandesu&theme=radical&no-frame=true&row=1&column=4" /></a> |
+| ------------- | ------------- |
+
+<br/>
+
+<!--- FEATURED PROJECT --->
+## 🔥 FEATURED PROJECT
 
 ### [ShareFlow](https://github.com/ariandesu/shareflow)
-
-Autonomous money-earning platform — rewarded ad steps mint 1-time **100% OFF coupons** for premium digital products. Runs on a 365-day self-sustaining agent loop.
+> Autonomous money-earning platform — rewarded ad steps mint **1-time 100% OFF coupons** for premium digital products. Runs on a **365-day self-sustaining agent loop**.
 
 → **Live at [shareflow.mhr3d.online](https://shareflow.mhr3d.online)**
 
+<br/>
+
+<!--- RANDOM QUOTE --->
+## 💬 RANDOM DEV QUOTE
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
 ---
 
-## 📫 Find Me Everywhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahirfaisal777/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhr_3d)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mahirfarian)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahir.faisal.39)
-
-![Profile views](https://komarev.com/ghpvc/?username=ariandesu)
+<!--- VISIT COUNT --->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ariandesu&label=Profile%20views&color=10b981&style=flat" alt="ariandesu" /> </p>
