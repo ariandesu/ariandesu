@@ -55,13 +55,11 @@
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
 ### Contribution Snake:
-![Snake Grid](https://github.com/ariandesu/ariandesu/blob/output/snake.svg)
+![Snake Grid](https://raw.githubusercontent.com/ariandesu/ariandesu/output/snake.svg)
 
-### GitHub Statistics:
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ariandesu&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandesu&theme=radical&hide_border=true&layout=compact" /></a> |
 | ------------- | ------------- |
 
-### Streak & Trophies:
 | <a><img align="center" src="https://streak-stats.demolab.com/?user=ariandesu&theme=radical&hide_border=true" /></a> | <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=ariandesu&theme=radical&no-frame=true&row=1&column=4" /></a> |
 | ------------- | ------------- |
 
