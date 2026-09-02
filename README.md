@@ -48,6 +48,8 @@
 
 ### Design & Creative:
 [![Design](https://skillicons.dev/icons?i=blender,figma,ps,ai)](https://github.com/ariandesu)
+<a href="https://github.com/ariandesu"><img src="https://img.shields.io/badge/Autodesk%20Maya-069697?style=for-the-badge&logo=autodesk&logoColor=white" height="40" alt="Autodesk Maya" /></a>
+<a href="https://github.com/ariandesu"><img src="https://img.shields.io/badge/KeyShot-00B2E3?style=for-the-badge&logo=keyshot&logoColor=white" height="40" alt="KeyShot" /></a>
 
 <br/>
 
