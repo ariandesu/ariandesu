@@ -85,7 +85,7 @@
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
 ### Contribution Snake:
-![Snake Grid](https://raw.githubusercontent.com/ariandesu/ariandesu/output/snake.svg)
+[![Snake Grid](https://raw.githubusercontent.com/ariandesu/ariandesu/output/snake.svg)](https://github.com/ariandesu)
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ariandesu&show_icons=true&theme=radical&hide_border=true&count_private=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariandesu&theme=radical&hide_border=true&layout=compact" /></a> |
 | ------------- | ------------- |
