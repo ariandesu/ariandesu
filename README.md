@@ -5,18 +5,47 @@
   <h1>Hi 👋, I'm Mahir Faisal</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+Researcher+%26+ML+Enthusiast;Autonomous+Agent+Builder;Product+Creator+%40+MHR3D;3D+Designer+%26+Creative+Developer" alt="Typing SVG" /></a>
   <br/>
-  <sub><b>aka ariandesu</b> · github.com/ariandesu</sub>
+  <sub><b>aka ariandesu</b> · github.com/ariandesu · 📍 Chattogram, Bangladesh</sub>
 </div>
 
 <br/>
 
-<!--- ABOUT --->
-- 👋 I'm **[@ariandesu](https://github.com/ariandesu)** — a CSE student and builder.
+<!--- ABOUT ME --->
+## 🙋 ABOUT ME
+
+- 👋 I'm **[@ariandesu](https://github.com/ariandesu)** — **Mahir Faisal**, a CSE student and builder behind the **MHR3D** brand.
 - 🤖 I run **Sanctuary** — a self-hosted autonomous AI agent, live 24/7 on my home server.
 - 💰 Creator of **ShareFlow** — rewarded ads → 100% OFF coupons ([shareflow.mhr3d.online](https://shareflow.mhr3d.online)).
-- 🧪 ML research: prompt-injection detection, spam classification, NLP.
-- 🐍 Heavy ML training on **Kaggle** with GPU/TPU pipelines.
-- 🎨 3D & creative design on the side — the **MHR3D** side of me.
+- 🧪 ML researcher — prompt-injection detection, spam classification, NLP.
+- 🐍 Heavy ML training on **Kaggle** with GPU/TPU pipelines — Python · FastAPI · React · Docker.
+- 🎨 3D & creative designer on the side — Blender, Maya, KeyShot, Figma — find my visual work as **MHR3D** on Instagram & Behance.
+
+<br/>
+
+<!--- CURRENT ACTIVITIES & FOCUS --->
+## 🎯 CURRENT ACTIVITIES & FOCUS
+
+- 🔭 Currently running **Sanctuary 24/7** — autonomous agent ops on my Hermes home server.
+- 🚀 Currently building **ShareFlow** — 365-day self-sustaining loop, rewarded ads → 1-time 100% OFF coupons.
+- 🌱 Currently researching **prompt-injection detection, spam classification & NLP** pipelines.
+- 🐍 Currently training on **Kaggle** — GPU/TPU experiments, FastAPI + React dashboards.
+- 🎨 Currently designing in **3D as MHR3D** — follow progress on Instagram [@mhr_3d](https://www.instagram.com/mhr_3d).
+- 💬 Ask me about **AI agents, ML pipelines, ShareFlow, 3D design**.
+
+<br/>
+
+<!--- CURRENT LOCATION & CONTACT INFO --->
+## 📍 CURRENT LOCATION & 📫 CONTACT INFO
+
+<div align="center">
+  <b>📍 Chattogram, Bangladesh</b> · UTC+6 · Open to remote collabs<br/><br/>
+  <a href="mailto:mahirfaisalarian@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="50" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mahirfaisal777/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" /></a>
+  <a href="https://shareflow.mhr3d.online" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="40" width="50" alt="ShareFlow Live" /></a>
+  <br/><br/>
+  📫 <b><a href="mailto:mahirfaisalarian@gmail.com">mahirfaisalarian@gmail.com</a></b><br/>
+  🌐 <b><a href="https://shareflow.mhr3d.online">shareflow.mhr3d.online</a></b> · 💬 Fastest reply via LinkedIn / Email
+</div>
 
 <br/>
 
