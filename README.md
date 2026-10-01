@@ -1,6 +1,4 @@
-<!--- BANNER — replace this comment with your banner when ready:
-<img src="https://github.com/ariandesu/ariandesu/raw/main/banner.png" alt="MHR3D banner" width="100%">
---->
+<img src="banner.jpg" alt="Mahir Faisal banner" width="100%">
 
 <!--- TITLE --->
 <div align="center">
