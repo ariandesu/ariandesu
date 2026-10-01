@@ -95,13 +95,22 @@
 
 <br/>
 
-<!--- FEATURED PROJECT --->
-## 🔥 FEATURED PROJECT
+<!--- FEATURED PROJECTS --->
+## 🔥 FEATURED PROJECTS
 
-### [ShareFlow](https://github.com/ariandesu/shareflow)
+### 1. [ShareFlow](https://github.com/ariandesu/shareflow)
 > Autonomous money-earning platform — rewarded ad steps mint **1-time 100% OFF coupons** for premium digital products. Runs on a **365-day self-sustaining agent loop**.
 
 → **Live at [shareflow.mhr3d.online](https://shareflow.mhr3d.online)**
+
+🛠️ `React 19 · TypeScript · Tailwind CSS · Cloudflare Pages · WebRTC`
+
+### 2. [STAR PLUS — NASA Space Health](https://github.com/ariandesu/star-plus)
+> Space Telemetry & Astronaut Recovery System — real-time multi-system baseline tracking, WATCH signals & clinical decision-support for long-duration missions (Lunar Gateway / Mars Transit).
+
+→ **Live Demo at [star-plus.shareflow.workers.dev](https://star-plus.shareflow.workers.dev/)**
+
+🛠️ `Next.js 15 · React 19 · Tailwind CSS · Cloudflare Workers · Recharts`
 
 <br/>
 
